@@ -11,5 +11,7 @@ grid-template-columns:repeat(3,1fr);
 img{
 	width:150px;
 	height:200px;
+	margin-left:150px;
+	margin-top:150px;
 	border:2px solid black;
 }
