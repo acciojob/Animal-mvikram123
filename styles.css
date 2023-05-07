@@ -4,5 +4,11 @@
 grid-template-columns:repeat(3,1fr);
 	gap:4px;
 	background-color:blue;
+	justify-content:space around;
+	border:2px solid black;
 	
+}
+img{
+	width:150px;
+	height:200px;
 }
